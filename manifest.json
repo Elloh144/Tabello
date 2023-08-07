@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Tabello",
+    "description": "Tabello the ultimate Chrome extension for effortless bookmarking and link storage! It is designed to simplify your browsing experience by allowing you to effortlessly bookmark relevant tabs and store important links, all within a few clicks. With this powerful tool at your fingertips, you can keep track of valuable online resources, articles, and websites that matter to you. Experience the convenience of Tabello and elevate your browsing productivity. Get started today and discover a whole new level of efficient bookmarking and link storage with this must-have Chrome extension!",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "Tabello.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
